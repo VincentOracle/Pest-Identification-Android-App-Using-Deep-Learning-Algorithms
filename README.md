@@ -23,7 +23,7 @@ Android Studio (for running the Android app)
 Clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/Pestify.git
+git clone https://github.com/VincentOracle/Pest-Identification-Android-App-Using-Deep-Learning-Algorithms
 Navigate to the project directory:
 
 
