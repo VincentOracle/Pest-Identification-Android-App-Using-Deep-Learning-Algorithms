@@ -361,17 +361,29 @@ MODEL_CONFIG = {
    - Grant necessary permissions
    - View welcome screen
 
+![6aa87fe0-7152-44cb-b404-fe8e12d5a83d](https://github.com/user-attachments/assets/36f6fd0c-9597-478b-8b03-3f364926f0a6)
+
+
 2. **Image Capture** 📸
    - Tap camera button
    - Position pest in frame
    - Capture clear image
    - Or select from gallery
 
+![369b6255-cc0e-4fed-9941-76c59cd35cf4](https://github.com/user-attachments/assets/3a4edc04-15f8-4c6d-b7d6-ed57ba809ec9)
+
+
+![fbccf2fc-6681-4708-8877-2da29d9b15e6](https://github.com/user-attachments/assets/1d768657-809f-4915-a5b6-ffe0bd2aeaa2)
+
+
 3. **Analysis & Results** 🔍
    - Automatic image processing
    - Pest identification
    - Confidence score display
    - Detailed information
+
+
+![718c1b40-e4db-43b3-af1d-7fc16a918f62](https://github.com/user-attachments/assets/490e7e43-9237-407e-9fbe-67ceefa98ab9)
 
 4. **Action Plan** 🛠️
    - Review recommendations
@@ -396,6 +408,10 @@ MODEL_CONFIG = {
 | **Recall** | 92.1% | Effective pest detection |
 | **F1-Score** | 92.9% | Balanced performance |
 | **Inference Time** | 1.2s | Mobile processing speed |
+
+
+![d32b79c6-891b-468f-8b94-81f763433156](https://github.com/user-attachments/assets/abd0d029-8383-4b9d-8e5f-37a3e4df88ad)
+
 
 ### User Experience 📊
 - **App Size**: <50MB
