@@ -15,6 +15,9 @@
 
 Pestify is an innovative Android application that transforms pest identification and management by integrating cutting-edge deep learning algorithms into a user-friendly mobile platform. The app empowers farmers and agricultural professionals to accurately identify pests in real-time using their smartphone cameras, providing instant species information, harm assessment, and actionable management strategies.
 
+<img width="605" height="596" alt="image" src="https://github.com/user-attachments/assets/caac5ef9-f351-4ae7-a12c-dd27cbeb0053" />
+
+
 ### 🎯 Vision
 To democratize agricultural expertise through AI, making professional pest management accessible to every farmer worldwide.
 
